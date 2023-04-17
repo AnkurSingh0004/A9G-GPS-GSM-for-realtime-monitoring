@@ -13,5 +13,4 @@ Steps:
 6. Try to opeate the in open area, avoid closed areas.
 6. Run the code and wait for 2-3mins, once the satellite will start sending data you will be able to get coordinates.
 
-Thank You.
-Ankur Singh
+Thank You
